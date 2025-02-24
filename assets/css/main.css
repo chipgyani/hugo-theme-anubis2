@@ -357,7 +357,7 @@ header h2 {
 .site-title {
     display: inline;
     white-space: nowrap;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 header nav:not(:empty) {
